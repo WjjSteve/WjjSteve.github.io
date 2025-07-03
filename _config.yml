@@ -327,6 +327,11 @@ tag_archive:
 #     category: /categories/:name/
 #     tag: /tags/:name/
 
+defaults:
+  - scope:
+      path: ""
+    values:
+      css: "/assets/css/custom.css"
 
 # HTML Compression
 # - http://jch.penibelst.de/
