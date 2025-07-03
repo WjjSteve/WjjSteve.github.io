@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a PhD student in Scientific Computing at Uppsala University, Sweden. I am fortunate to be supervised by [Prof.Murtazo Nazarov](https://www.uu.se/kontakt-och-organisation/personal?query=N14-1561) and [Prof.Katharina Kormann](https://math.ruhr-uni-bochum.de/en/faculty/professorships/numerics/kormann-group/team/prof-dr-katharina-kormann/).
+I'm a PhD student in Scientific Computing at Uppsala University, Sweden. I am fortunate to be supervised by [Prof.Murtazo Nazarov](https://www.uu.se/kontakt-och-organisation/personal?query=N14-1561) from Uppsala University and [Prof.Katharina Kormann](https://math.ruhr-uni-bochum.de/en/faculty/professorships/numerics/kormann-group/team/prof-dr-katharina-kormann/) from Ruhr University Bo­chum.
 
 My research focuses on finite element methods and their application in Vlasov-type equations, such as VLasov--Maxwell and VLasov--Poisson equations. I aim to develop accurate and efficient numerical techniques for simulating complex plasma phenomena, contributing to better understanding and predictive modeling in high-performance computing environments.
 
