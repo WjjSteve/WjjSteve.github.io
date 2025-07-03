@@ -22,6 +22,11 @@ Skills
 * Numerical methods and finite element analysis
 * Version control with Git
 
+Certificate
+======
+* [Pedagogical Training (PDF)](/files/academic-teacher-training.pdf)
+  Uppsala University, Spring 2025. Covered inclusive education, constructive alignment, and reflective teaching practice.
+
 Languages
 ======
 * Mandarin – Native
