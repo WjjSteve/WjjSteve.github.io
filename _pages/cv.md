@@ -24,8 +24,7 @@ Skills
 
 Certificate
 ======
-* [Pedagogical Training (PDF)](/files/academic-teacher-training.pdf)
-  Uppsala University, Spring 2025. Covered inclusive education, constructive alignment, and reflective teaching practice.
+* Pedagogical Training: Uppsala University, Spring 2025. Covered inclusive education, constructive alignment, and reflective teaching practice.
 
 Languages
 ======
