@@ -35,6 +35,10 @@ Languages
 Publications
 ======
 * [An anisotropic nonlinear stabilization for finite element approximation of Vlasov–Poisson equations](https://www.sciencedirect.com/science/article/pii/S0021999125003626?via%3Dihub)
+
+Early Research (Bachelor Thesis Work)
+======
+* [Automated identification of compressive stress and damage in concrete specimen using convolutional neural network learned electromechanical admittance](https://www.sciencedirect.com/science/article/pii/S0141029622003091)
   
   
 Teaching
