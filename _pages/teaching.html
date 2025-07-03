@@ -5,15 +5,6 @@ permalink: /teaching/
 author_profile: true
 ---
 
-This page lists selected courses I've taught or assisted.
-
 {% for post in site.teaching reversed %}
-  <p>
-    {% if post.link %}
-      <a href="{{ post.link }}">{{ post.title }}</a>
-    {% else %}
-      {{ post.title }}
-    {% endif %}
-    — {{ post.venue }}, {{ post.location }}, {{ post.date | date: "%Y" }}
-  </p>
+  {% include archive-single-teaching.html %}
 {% endfor %}
