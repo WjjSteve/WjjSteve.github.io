@@ -1,5 +1,5 @@
 ---
-title: "Your Paper Title"
+title: "An anisotropic nonlinear stabilization for finite element approximation of Vlasov–Poisson equations"
 collection: publications
 permalink: /publication/your-paper-title/
 date: 2024-01-15
