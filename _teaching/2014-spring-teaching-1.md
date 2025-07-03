@@ -1,20 +1,10 @@
 ---
-title: "Teaching experience 1"
+title: "1TD354, Scientific Computing for Partial Differential Equations"
 collection: teaching
-type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+date: 2023-01-16
+enddate: 2023-03-19
+credits: "5.0"
+role: "Teacher"
+venue: "Department of Information Technology, Uppsala University"
+evaluation: "https://link-to-evaluation.pdf" # optional
 ---
-
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
