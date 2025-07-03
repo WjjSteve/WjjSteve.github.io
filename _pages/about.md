@@ -9,7 +9,7 @@ redirect_from:
 
 I'm a PhD student in Scientific Computing at Uppsala University, Sweden. I am fortunate to be supervised by [Prof.Murtazo Nazarov](https://www.uu.se/kontakt-och-organisation/personal?query=N14-1561) from Uppsala University and [Prof.Katharina Kormann](https://math.ruhr-uni-bochum.de/en/faculty/professorships/numerics/kormann-group/team/prof-dr-katharina-kormann/) from Ruhr University Bo­chum.
 
-I obtained my M.Sc. in Computational Science from Uppsala University (2021-2023). Earlier, I got my B.Sc. in Civil Engeering from Hanoi University of Science and Technology (2012-2017).
+I obtained my M.Sc. in Computational Science from Uppsala University (2021-2023). Earlier, I got my B.Sc. in Civil Engeering from Huazhong University of Science and Technology (2017-2021).
 
 A data-driven personal website
 ======
