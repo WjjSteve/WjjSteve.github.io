@@ -2,7 +2,7 @@
 title: "An anisotropic nonlinear stabilization for finite element approximation of Vlasov–Poisson equations"
 collection: publications
 category: manuscripts
-permalink: /publication/2025-05-19-paper-title-number-1
+permalink: https://www.sciencedirect.com/science/article/pii/S0021999125003626
 date: 2025-05-19
 venue: 'Journal of Computational Physics'
 slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
