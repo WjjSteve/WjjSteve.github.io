@@ -41,7 +41,7 @@ author:
   scopus           :  # Optional
 
   # Repositories and software development
-  github           : "academicpages"  # Replace with your GitHub username
+  github           : "wjjsteve"  # Replace with your GitHub username
   bitbucket        :  # Optional
   codepen          :  # Optional
   dribbble         :  # Optional
@@ -49,7 +49,7 @@ author:
   stackoverflow    :  # Optional (e.g., "12345/junjie-wen")
 
   # Social media
-  linkedin         :  # Optional (e.g., "your-name")
+  linkedin         :  "https://www.linkedin.com/in/junjie-wen-08904a236?originalSubdomain=se"
   mastodon         :  # Optional
   medium           :  # Optional
   twitter          :  # Optional (e.g., "yourhandle")
