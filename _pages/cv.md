@@ -15,6 +15,18 @@ Education
 * M.S. in Computational Science, Uppsala University, 2023
 * B.S. in Civil Engeering, Huazhong University of Science and Technology, 2021
 
+Skills
+======
+* Scientific writing with LaTeX
+* Programming in C++
+* Numerical methods and finite element analysis
+* Version control with Git
+
+Languages
+======
+* Mandarin – Native
+* English – Proficient (academic and professional)
+
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
