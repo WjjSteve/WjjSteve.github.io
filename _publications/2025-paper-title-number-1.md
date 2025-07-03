@@ -3,7 +3,7 @@ title: "An anisotropic nonlinear stabilization for finite element approximation 
 collection: Journal of Computational Physics
 category: manuscripts
 permalink: /publication/2009-10-01-paper-title-number-1
-date: 2025
+date: 2025-05-13
 slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
 paperurl: 'http://academicpages.github.io/files/paper1.pdf'
 bibtexurl: 'http://academicpages.github.io/files/bibtex1.bib'
