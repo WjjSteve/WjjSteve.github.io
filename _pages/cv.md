@@ -13,7 +13,7 @@ Education
 ======
 * Ph.D in Scientific computing, Uppsala University, 2028 (expected)
 * M.S. in Computational Science, Uppsala University, 2023
-* B.S. in Civil Engeering, Huazhong University of Science and Technology, 2021
+* B.S. in Civil Engineering, Huazhong University of Science and Technology, 2021
 
 Skills
 ======
