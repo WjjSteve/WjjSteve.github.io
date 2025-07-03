@@ -37,7 +37,7 @@ author:
   impactstory      :  # Optional
   semantic         :  # Optional
   pubmed           :  # Optional or update with your real PubMed search URL
-  researchgate     :  # Optional
+  researchgate     :  "https://www.researchgate.net/profile/Junjie-Wen-5?ev=hdr_xprf"
   scopus           :  # Optional
 
   # Repositories and software development
