@@ -34,9 +34,7 @@ Languages
 
 Publications
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* [An anisotropic nonlinear stabilization for finite element approximation of Vlasov–Poisson equations](https://www.sciencedirect.com/science/article/pii/S0021999125003626?via%3Dihub)
   
   
 Teaching
