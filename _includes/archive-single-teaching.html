@@ -1,0 +1,11 @@
+<div class="teaching-entry">
+  <p>
+    <strong>{{ post.title }}</strong>, {{ post.credits }} credits  
+    ({{ post.date | date: "%Y-%m-%d" }} – {{ post.enddate | date: "%Y-%m-%d" }}).  
+    <strong>Role:</strong> {{ post.role }}.  
+    {{ post.venue }}.  
+    {% if post.evaluation %}
+      <a href="{{ post.evaluation }}" target="_blank">[Student Evaluation]</a>
+    {% endif %}
+  </p>
+</div>
