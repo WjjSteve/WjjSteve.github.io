@@ -53,14 +53,6 @@
     {% endif %}
     
  {% if post.paperurl or post.doi %}
-  <p>
-    {% if post.paperurl %}
-      <a href="{{ post.paperurl }}" target="_blank">PDF</a>{% if post.doi %} | {% endif %}
-    {% endif %}
-    {% if post.doi %}
-      <a href="{{ post.doi }}" target="_blank">DOI</a>
-    {% endif %}
-  </p>
 {% endif %}
 
 
