@@ -7,6 +7,16 @@ redirect_from:
   - /about.html
 ---
 
+I'm a PhD student in Scientific Computing at Uppsala University, Sweden. I am fortunate to be supervised by [Prof.Murtazo Nararov]([https://murtazo.github.io/](https://www.uu.se/kontakt-och-organisation/personal?query=N14-1561)) and [Prof.Katharina Kormann](https://math.ruhr-uni-bochum.de/en/faculty/professorships/numerics/kormann-group/team/prof-dr-katharina-kormann/).
+
+My research focuses on finite element methods and their application in computational plasma physics. I aim to develop accurate and efficient numerical techniques for simulating complex plasma phenomena, contributing to better understanding and predictive modeling in high-performance computing environments.
+
+Beyond research, I value writing clean, reproducible code and enjoy working across disciplines to solve real-world scientific problems.
+
+In my spare time, I enjoy exploring Sweden’s nature, reading, and learning new computational tools.
+
+I am a Ph.D candidate in Scientific Computing at Uppsala University, supervised by Associate Professor Andreas Hellander. Prior to starting my Ph.D study, I earned MS.c in Computational Science at Uppsala University, MS.c in Chemometrics at University of Science and Technology of China (USTC), and BS.c in Chemistry at USTC.
+
 This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
 
  You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
