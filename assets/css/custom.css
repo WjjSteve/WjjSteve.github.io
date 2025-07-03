@@ -1,0 +1,5 @@
+.author__avatar img {
+  border-radius: 0 !important;       /* Removes the ellipse */
+  width: 150px !important;           /* Adjust size as needed */
+  height: auto !important;
+}
