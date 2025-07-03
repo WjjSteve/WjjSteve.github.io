@@ -22,58 +22,40 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "images/themes/profile.png"
+  avatar           : "images/themes/profile.png"  # Place your profile image here
   name             : "Junjie Wen"
-  pronouns         : # example: "she/her"  
+  pronouns         :  # Optional, e.g. "he/him"
   bio              : "PhD Student in Scientific Computing. Interested in finite element methods and computational plasma physics. Based in Sweden."
   location         : "Uppsala, Sweden"
   employer         : "Uppsala University"
-  uri              : # URL
-  email            : "junjie.wen@it.uu.se" 
+  uri              :  # Optional personal website URL
+  email            : "junjie.wen@it.uu.se"
 
   # Academic websites
-  academia         : # URL
+  academia         :  # Optional
   googlescholar    : "https://scholar.google.com/citations?user=hBW4GKsAAAAJ&hl=zh-CN"
-  impactstory      : # URL
-  semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : # URL
-  scopus           : # URL
+  impactstory      :  # Optional
+  semantic         :  # Optional
+  pubmed           :  # Optional or update with your real PubMed search URL
+  researchgate     :  # Optional
+  scopus           :  # Optional
 
   # Repositories and software development
-  bitbucket        : # Username - Update with your username on the site
-  codepen          : # Username
-  dribbble         : # Username
-  github           : "academicpages"
-  kaggle           : # Username  
-  stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
+  github           : "academicpages"  # Replace with your GitHub username
+  bitbucket        :  # Optional
+  codepen          :  # Optional
+  dribbble         :  # Optional
+  kaggle           :  # Optional
+  stackoverflow    :  # Optional (e.g., "12345/junjie-wen")
 
   # Social media
-  artstation       : # Username
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
-  facebook         : # Username
-  flickr           : # Username
-  foursquare       : # Username
-  goodreads        : # Username
-  google_plus      : # Username
-  keybase          : # Username
-  instagram        : # Username
-  lastfm           : # Username
-  linkedin         : # Username
-  mastodon         : # URL
-  medium           : # URL
-  pinterest        : # Username
-  soundcloud       : # Username
-  steam            : # Username
-  telegram         : # URL
-  tumblr           : # Username
-  twitter          : # Username for X / Twitter
-  vine             : # Username
-  weibo            : # Username
-  wikipedia        : # Username
-  xing             : # Username
-  youtube          : # Username
-  zhihu            : # Username
+  linkedin         :  # Optional (e.g., "your-name")
+  mastodon         :  # Optional
+  medium           :  # Optional
+  twitter          :  # Optional (e.g., "yourhandle")
+  zhihu            :  # Optional
+  youtube          :  # Optional
+  bluesky          :  # Optional
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
