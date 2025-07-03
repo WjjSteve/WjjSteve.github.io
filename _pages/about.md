@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a PhD student in Scientific Computing at Uppsala University, Sweden. I am fortunate to be supervised by [Prof.Murtazo Nararov](https://www.uu.se/kontakt-och-organisation/personal?query=N14-1561) and [Prof.Katharina Kormann](https://math.ruhr-uni-bochum.de/en/faculty/professorships/numerics/kormann-group/team/prof-dr-katharina-kormann/).
+I'm a PhD student in Scientific Computing at Uppsala University, Sweden. I am fortunate to be supervised by [Prof.Murtazo Nazarov](https://www.uu.se/kontakt-och-organisation/personal?query=N14-1561) and [Prof.Katharina Kormann](https://math.ruhr-uni-bochum.de/en/faculty/professorships/numerics/kormann-group/team/prof-dr-katharina-kormann/).
 
 My research focuses on finite element methods and their application in computational plasma physics. I aim to develop accurate and efficient numerical techniques for simulating complex plasma phenomena, contributing to better understanding and predictive modeling in high-performance computing environments.
 
