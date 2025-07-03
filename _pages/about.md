@@ -15,7 +15,6 @@ The goal of my PhD project is to develop a structure-preserving low-rank tensor 
 
 The mathematical model that we mainly consider in this project is the Vlasov-Maxwell system. The specific goal of the project is the construction, analysis, and implementation of numerical approximations of the Vlasov-Maxwell system that preserve the basic physical properties such as the positivity of the plasma distribution function. The project will be carried out in cooperation with the Ruhr University Bochum, Germany, and the candidate is expected to visit Bochum several times during the course of the project.
 
-I obtained my M.Sc. in Computational Science from Uppsala University (2021-2023). Earlier, I got my B.Sc. in Civil Engeering from Huazhong University of Science and Technology (2017-2021).
 
-A data-driven personal website
-======
+Before starting my PhD, I earned an M.Sc. in Computational Science from Uppsala University (2021–2023). Earlier, I completed my B.Sc. in Civil Engineering at Huazhong University of Science and Technology, China (2017–2021).
+
