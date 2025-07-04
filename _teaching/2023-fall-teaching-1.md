@@ -1,5 +1,5 @@
 ---
-title: "1TD056, Introduction to Scientific Computing"
+title: "1TD342, Introduction to Scientific Computing"
 collection: teaching
 date: 2023-11-04
 enddate: 2024-01-19
