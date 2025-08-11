@@ -5,7 +5,7 @@
  * This file controls what is imported from /_sass
  *
  * Note that the files are processed in the order they are imported, so they are partly
-   sorted by the dependencies. Also, the first two lines of the file are required by Jekyll.
+ * sorted by the dependencies. Also, the first two lines of the file are required by Jekyll.
  */
 
 @import
@@ -41,10 +41,13 @@
     "vendor/font-awesome/brands"
 ;
 
-/* ===== Publications page column fix ===== */
+/* ===========================================
+   Publications page column fix (academicpages)
+   For layout: archive + author_profile: true
+   =========================================== */
 
-/* Target the publications page by URL */
-.page__content[aria-label="Publications"] {
+body.layout-archive.author-profile #main {
+  /* 2-column grid: left = author sidebar, right = publications list */
   display: grid;
   grid-template-columns: 320px minmax(0, 1fr);
   column-gap: 2rem;
@@ -52,21 +55,23 @@
 }
 
 /* Sidebar column (author profile) */
-.page__sidebar {
+body.layout-archive.author-profile #main .sidebar,
+body.layout-archive.author-profile #main .page__sidebar {
   position: static;
   max-width: 100%;
-  flex: 0 0 320px;
+  flex: 0 0 320px; /* fixed sidebar width */
 }
 
 /* Main column */
-.archive,
-.page__content {
-  min-width: 0;
-  overflow-wrap: anywhere;
+body.layout-archive.author-profile #main .archive,
+body.layout-archive.author-profile #main .page__content {
+  min-width: 0;              /* allows wrapping inside grid/flex */
+  overflow-wrap: anywhere;   /* prevent long links/titles from overflowing */
 }
 
-/* Headshot sanity */
-.page__sidebar img {
+/* Headshot image styling */
+body.layout-archive.author-profile #main .sidebar img,
+body.layout-archive.author-profile #main .page__sidebar img {
   max-width: 100%;
   height: auto;
   display: block;
@@ -74,7 +79,7 @@
 }
 
 /* Publication item spacing */
-.archive .list__item + .list__item {
+body.layout-archive.author-profile #main .archive .list__item + .list__item {
   margin-top: 1.25rem;
   padding-top: 1.25rem;
   border-top: 1px solid rgba(0,0,0,.06);
@@ -82,11 +87,12 @@
 
 /* Responsive: stack columns on smaller screens */
 @media (max-width: 900px) {
-  .page__content[aria-label="Publications"] {
+  body.layout-archive.author-profile #main {
     grid-template-columns: 1fr;
     row-gap: 2rem;
   }
-  .page__sidebar {
-    order: -1;
+  body.layout-archive.author-profile #main .sidebar,
+  body.layout-archive.author-profile #main .page__sidebar {
+    order: -1; /* sidebar above content */
   }
 }
