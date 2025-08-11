@@ -41,34 +41,32 @@
     "vendor/font-awesome/brands"
 ;
 
-/* ===== Publications layout fix (academicpages) ===== */
+/* ===== Publications page column fix ===== */
 
-body.publications .page,                  /* robust target in academicpages */
-body.publications #main {                 /* fallback if #main is used */
+/* Target the publications page by URL */
+.page__content[aria-label="Publications"] {
   display: grid;
-  grid-template-columns: 320px minmax(0, 1fr); /* fixed sidebar + flexible content */
+  grid-template-columns: 320px minmax(0, 1fr);
   column-gap: 2rem;
   align-items: start;
 }
 
 /* Sidebar column (author profile) */
-body.publications .sidebar,
-body.publications .page__sidebar {
-  position: static;   /* avoid sticky collisions */
+.page__sidebar {
+  position: static;
   max-width: 100%;
-  flex: 0 0 320px;    /* if flex is applied by theme anywhere */
+  flex: 0 0 320px;
 }
 
-/* Main content column */
-body.publications .archive,
-body.publications .page__content {
-  min-width: 0;             /* critical so long titles/links don’t overflow */
-  overflow-wrap: anywhere;  /* prevents spillover into sidebar */
+/* Main column */
+.archive,
+.page__content {
+  min-width: 0;
+  overflow-wrap: anywhere;
 }
 
 /* Headshot sanity */
-body.publications .sidebar img,
-body.publications .page__sidebar img {
+.page__sidebar img {
   max-width: 100%;
   height: auto;
   display: block;
@@ -76,21 +74,19 @@ body.publications .page__sidebar img {
 }
 
 /* Publication item spacing */
-body.publications .archive .list__item + .list__item {
+.archive .list__item + .list__item {
   margin-top: 1.25rem;
   padding-top: 1.25rem;
   border-top: 1px solid rgba(0,0,0,.06);
 }
 
-/* Responsive: stack on mobile/tablet */
+/* Responsive: stack columns on smaller screens */
 @media (max-width: 900px) {
-  body.publications .page,
-  body.publications #main {
+  .page__content[aria-label="Publications"] {
     grid-template-columns: 1fr;
     row-gap: 2rem;
   }
-  body.publications .sidebar,
-  body.publications .page__sidebar {
-    order: -1; /* sidebar above content */
+  .page__sidebar {
+    order: -1;
   }
 }
