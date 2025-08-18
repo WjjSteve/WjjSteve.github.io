@@ -33,6 +33,8 @@ Languages
 
 Publications
 ======
+* [A structure-preserving finite element framework for the Vlasov–Maxwell system](https://www.sciencedirect.com/science/article/pii/S0045782525005626)
+  
 * [An anisotropic nonlinear stabilization for finite element approximation of Vlasov–Poisson equations](https://www.sciencedirect.com/science/article/pii/S0021999125003626?via%3Dihub)
 
 Early Research (Bachelor Thesis Work)
