@@ -11,11 +11,11 @@ locale                   : "en-US"
 site_theme               : "default"
 title                    : "JUNJIE WEN"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
+name                     : &name "Junjie Wen"
+description              : &description "PhD candidate in Scientific Computing at Uppsala University, working on structure-preserving finite element methods for kinetic plasma models."
 url                      : https://wjjsteve.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "WjjSteve/WjjSteve.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -25,7 +25,7 @@ author:
   avatar           : "profile.png"  # Place your profile image here
   name             : "Junjie Wen"
   pronouns         :  # Optional, e.g. "he/him"
-  bio              : "Ph.D candidate in Scientific Computing at Uppsala University"
+  bio              : "PhD candidate in Scientific Computing at Uppsala University"
   location         : "Uppsala, Sweden"
   employer         : "Uppsala University"
   uri              :  # Optional personal website URL
@@ -33,15 +33,15 @@ author:
 
   # Academic websites
   academia         :  # Optional
-  googlescholar    : "https://scholar.google.com/citations?user=hBW4GKsAAAAJ&hl=zh-CN"
+  googlescholar    : "https://scholar.google.com/citations?user=hBW4GKsAAAAJ&hl=en"
   impactstory      :  # Optional
   semantic         :  # Optional
   pubmed           :  # Optional or update with your real PubMed search URL
-  researchgate     :  "https://www.researchgate.net/profile/Junjie-Wen-5?ev=hdr_xprf"
+  researchgate     :  "https://www.researchgate.net/profile/Junjie-Wen-5"
   scopus           :  # Optional
 
   # Repositories and software development
-  github           :  # Replace with your GitHub username
+  github           : "WjjSteve"
   bitbucket        :  # Optional
   codepen          :  # Optional
   dribbble         :  # Optional
@@ -49,7 +49,7 @@ author:
   stackoverflow    :  # Optional (e.g., "12345/junjie-wen")
 
   # Social media
-  linkedin         :  "https://www.linkedin.com/in/junjie-wen-08904a236?originalSubdomain=se"
+  linkedin         :  "https://www.linkedin.com/in/junjie-wen-08904a236"
   mastodon         :  # Optional
   medium           :  # Optional
   twitter          :  # Optional (e.g., "yourhandle")
@@ -118,14 +118,18 @@ facebook:
   username               :
   app_id                 :
   publisher              :
-og_image                 :  # Social media default site image
-og_description           :  # Social media default site image description
+og_image                 : "profile.png"
+og_description           : "Junjie Wen — PhD candidate in Scientific Computing at Uppsala University."
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
-  type                   : # Person or Organization (defaults to Person)
-  name                   : # If the user or organization name differs from the site's name
-  links: # An array of links to social media profiles
+  type                   : Person
+  name                   : "Junjie Wen"
+  links:
+    - "https://github.com/WjjSteve"
+    - "https://scholar.google.com/citations?user=hBW4GKsAAAAJ&hl=en"
+    - "https://www.researchgate.net/profile/Junjie-Wen-5"
+    - "https://www.linkedin.com/in/junjie-wen-08904a236"
 
 
 # Analytics

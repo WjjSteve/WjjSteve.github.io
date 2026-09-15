@@ -11,9 +11,16 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Scientific computing, Uppsala University, 2028 (expected)
-* M.S. in Computational Science, Uppsala University, 2023
-* B.S. in Civil Engineering, Huazhong University of Science and Technology, 2021
+* PhD in Scientific Computing, Uppsala University, expected 2028
+* MSc in Computational Science, Uppsala University, 2023
+* BSc in Civil Engineering, Huazhong University of Science and Technology, 2021
+
+Research Interests
+======
+* Structure-preserving numerical methods
+* Finite element methods for kinetic plasma models
+* Vlasov–Maxwell and Vlasov–Poisson equations
+* Low-rank tensor methods for high-dimensional problems
 
 Skills
 ======
@@ -22,14 +29,14 @@ Skills
 * Numerical methods and finite element analysis
 * Version control with Git
 
-Certificate
+Professional Development
 ======
-* Pedagogical Training: Uppsala University, Spring 2025. Covered inclusive education, constructive alignment, and reflective teaching practice.
+* Pedagogical Training, Uppsala University, Spring 2025 — inclusive education, constructive alignment, and reflective teaching practice
 
 Languages
 ======
-* Mandarin – Native
-* English – Proficient (academic and professional)
+* Mandarin — native
+* English — professional proficiency
 
 Publications
 ======
