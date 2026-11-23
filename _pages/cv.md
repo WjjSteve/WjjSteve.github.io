@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* PhD in Scientific Computing, Uppsala University, expected 2028
+* PhD in Scientific Computing, Uppsala University
 * MSc in Computational Science, Uppsala University, 2023
 * BSc in Civil Engineering, Huazhong University of Science and Technology, 2021
 
